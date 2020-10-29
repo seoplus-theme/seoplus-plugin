@@ -1,4 +1,4 @@
-# My Custom Functionality #
+# seoplus+ Plugin #
 
 Basic plugin that allow the `wp_body_open` action to be used with the Oxygen Plugin
 
